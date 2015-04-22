@@ -1,0 +1,221 @@
+0    Noise - street/sidewalk
+1    Illegal parking
+2    Maintenance or facility
+3    Homeless person assistance
+4    Damaged tree
+5    Noise - commercial
+6    Rodent
+7    Street sign - damaged
+8    Taxi complaint
+9    Consumer complaint
+10    For hire vehicle complaint
+11    Street condition
+12    Found property
+13    Taxi report
+14    For hire vehicle report
+15    Scrie
+16    Noise - park
+17    Noise - vehicle
+18    Broken muni meter
+19    Traffic
+20    Vending
+21    Bike/roller/skate chronic
+22    Panhandling
+23    Violation of park rules
+24    Air quality
+25    Blocked driveway
+26    Food establishment
+27    Lead
+28    Animal in a park
+29    Disorderly youth
+30    Beach/pool/sauna complaint
+31    Homeless encampment
+32    Sidewalk condition
+33    Public payphone complaint
+34    Food poisoning
+35    Dpr internal
+36    Overgrown tree/branches
+37    Non-residential heat
+38    Water quality
+39    Water system
+40    Animal abuse
+41    Illegal tree damage
+42    Senior center complaint
+43    Urinating in public
+44    Dead tree
+45    Noise
+46    Asbestos
+47    Calorie labeling
+48    Street sign - missing
+49    Noise - helicopter
+50    Sewer
+51    Dirty conditions
+52    Unsanitary pigeon condition
+53    Tattooing
+54    Heat/hot water
+55    Nonconst
+56    General
+57    Drinking
+58    Graffiti
+59    Open flame permit
+60    Eap inspection - f59
+61    Mold
+62    Fire safety director - f58
+63    Electric
+64    Building/use
+65    Paint - plaster
+66    Water leak
+67    General construction/plumbing
+68    Heating
+69    Plumbing
+70    Unsanitary condition
+71    Smoking
+72    Water conservation
+73    Missed collection (all materials)
+74    Street sign - dangling
+75    Special projects inspection team (spit)
+76    Cranes and derricks
+77    Elevator
+78    Paint/plaster
+79    Special enforcement
+80    Wnw
+81    Other enforcement
+82    Flooring/stairs
+83    Electrical
+84    Hazardous materials
+85    General construction
+86    Derelict bicycle
+87    Industrial waste
+88    Litter basket / request
+89    Sanitation condition
+90    Indoor air quality
+91    Best/site safety
+92    Door/window
+93    Derelict vehicles
+94    Derelict vehicle
+95    Sweeping/missed
+96    Dof parking - tax exemption
+97    Standing water
+98    Root/sewer/sidewalk condition
+99    Safety
+100    Appliance
+101    Bike rack condition
+102    Street light condition
+103    Scaffold safety
+104    Bus stop shelter placement
+105    Investigations and discipline (iad)
+106    Snow
+107    Recycling enforcement
+108    Noise - house of worship
+109    Overflowing litter baskets
+110    Fire alarm - reinspection
+111    Construction
+112    City vehicle placard complaint
+113    Summer camp
+114    Miscellaneous categories
+115    Fire alarm - modification
+116    Fire alarm - new system
+117    Boilers
+118    Traffic signal condition
+119    Unsanitary animal pvt property
+120    School maintenance
+121    Bottled water
+122    Sdep
+123    Broken parking meter
+124    Emergency response team (ert)
+125    Curb condition
+126    Public toilet
+127    Vacant lot
+128    Posting advertisement
+129    Outside building
+130    Dof property - payment issue
+131    Sprinkler - mechanical
+132    Legal services provider complaint
+133    Noise survey
+134    Sweeping/missed-inadequate
+135    Unsanitary animal facility
+136    Public assembly
+137    Drinking water
+138    Collection truck noise
+139    Public assembly - temporary
+140    Dof property - reduction issue
+141    Indoor sewage
+142    Illegal fireworks
+143    Unleashed dog
+144    Sdsc
+145    Wlwp
+146    Doe complaint or compliment
+147    Request xmas tree collection
+148    Igr
+149    X-ray machine/equipment
+150    Stalled sites
+151    Animal facility - no permit
+152    Fire alarm - replacement
+153    Standpipe - mechanical
+154    Window guard
+155    Dca literature request
+156    Fire alarm - addition
+157    Oem disabled vehicle
+158    Illegal animal sold
+159    Adopt-a-basket
+160    Bridge condition
+161    Highway condition
+162    Sweeping/inadequate
+163    Highway sign - damaged
+164    Municipal parking facility
+165    Internal code
+166    Illegal animal kept as pet
+167    Highway sign - missing
+168    Harboring bees/wasps
+169    Special natural area district (snad)
+170    Forensic engineering
+171    Teaching/learning/instruction
+172    Hazmat storage/use
+173    Transportation provider complaint
+174    Parent leadership
+175    Discipline and suspension
+176    Lost property
+177    Health
+178    No child left behind
+179    Highway sign - dangling
+180    Registration and transfers
+181    Taxi compliment
+182    Lifeguard
+183    Rangehood
+184    Sg-51
+185    Poison ivy
+186    Literature request
+187    Sewer  
+188    Water system  
+189    Building condition
+190    Overflowing recycling baskets
+191    Radioactive material
+192    Plant
+193    Portable toilet
+194    Sg-98
+195    Stsk
+196    Tanning
+197    Complaint
+198    Dof property - rpie issue
+199    Sg-71
+200    Trans fat
+201    Squeegee
+202    Dof literature request
+203    Micro switch
+204    Dof property - city rebate
+205    Interior demo
+206    Structural
+207    Trapping pigeon
+208    Vacant apartment
+209    Benefit card replacement
+210    Agency issues
+211    Dwd
+212    Compliment
+213    Sg-99
+214    Ferry inquiry
+215    Gas station discharge lines
+216    Illegal animal - sold/kept
+217    Unlicensed dog
+218    Home care provider complaint
+219    Dof parking - request status
+220    Laboratory

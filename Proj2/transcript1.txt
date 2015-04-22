@@ -1,0 +1,477 @@
+1.python main.py -key AIzaSyAWQYMpX5fPyqOfSPvfssjNY0ogbvBdyg8 -q "Bill Gates" -t infobox    
+
+ -------------------------------------------------------------------------------------------------- 
+|                           Bill Gates(AUTHOR, BUSINESS_PERSON, PERSON)                            |
+ -------------------------------------------------------------------------------------------------- 
+| Name:           Bill Gates                                                                       |
+ -------------------------------------------------------------------------------------------------- 
+| Birthday:       1955-10-28                                                                       |
+ -------------------------------------------------------------------------------------------------- 
+| Place of birth: Seattle                                                                          |
+ -------------------------------------------------------------------------------------------------- 
+| Description:    William Henry "Bill" Gates III is an American business magnate, philanthropist, i|
+|                 nvestor, computer programmer, and inventor. Gates originally established his repu|
+|                 tation as the co-founder of Microsoft, the world’s largest PC software company,|
+|                  with Paul Allen. Since then he has served as a long term CEO and chairman of the|
+|                  company.                                                                        |
+|                 Today he is consistently ranked in the Forbes list of the world's wealthiest peop|
+|                 le and was the wealthiest overall from 1995 to 2014 — excluding a few brief per|
+|                 iods post-2008. Between 2009 and 2014 his wealth more than doubled from $40 billi|
+|                 on to more than $82 billion. Between 2013 and 2014 his wealth increased by $15 bi|
+|                 llion, or around $1.5 billion more than the entire GDP of Iceland in 2014.       |
+|                 During his career at Microsoft, Gates held the positions of CEO and chief softwar|
+|                 e architect, he was also the largest individual shareholder up until May 2014. He|
+|                  has also authored and co-authored several books.                                |
+|                 Gates is one of the best-known entrepreneurs of the personal computer revolution.|
+|                  Gates has been criticized for his business tactics, which have been considered a|
+|                 nti-competitive, an opinion which has in some cases been upheld by judicial court|
+|                 s.                                                                               |
+ -------------------------------------------------------------------------------------------------- 
+| Sibling:        Libby Gates                                                                      |
+|                 Kristi Gates                                                                     |
+ -------------------------------------------------------------------------------------------------- 
+| Spouses:        Melinda Gates                                                                    |
+ -------------------------------------------------------------------------------------------------- 
+| Books:          Business @ the Speed of Thought: Using a Digital Nervous System                  |
+|                 The Road Ahead                                                                   |
+|                 Open Letter to Hobbyists                                                         |
+ -------------------------------------------------------------------------------------------------- 
+| Books about:    Creative Capitalism: A Conversation with Bill Gates, Warren Buffett, and Other...|
+|                 The Microsoft File: The Secret Case against Bill Gates                           |
+|                 Programmers at work                                                              |
+ -------------------------------------------------------------------------------------------------- 
+| Influenced:     Marc Nicholas Rohde                                                              |
+|                 Naveen Jain                                                                      |
+|                 Cenk Aydin                                                                       |
+|                 Daniel Podgaichenko                                                              |
+|                 yogendrachavda                                                                   |
+|                 Yogendra Chavda                                                                  |
+|                 Nikhil Raj. R                                                                    |
+|                 Austin Cameron                                                                   |
+|                 Joel Glenn Wright                                                                |
+|                 Tony Edward                                                                      |
+ -------------------------------------------------------------------------------------------------- 
+| Founded:        Bill & Melinda Gates Foundation                                                  |
+|                 Microsoft Corporation                                                            |
+|                 Corbis                                                                           |
+|                 bgC3                                                                             |
+|                 Cascade Investment                                                               |
+|                 Microsoft Research                                                               |
+|                 The Global Fund to Fight AIDS, Tuberculosis and Malaria                          |
+ -------------------------------------------------------------------------------------------------- 
+| Leadership:     | Organization  | Role          | Title         | From          | To             |
+|                 --------------------------------------------------------------------------------- 
+|                 | Microsoft ... | Chief Exec... | Chief Exec... | 1975-04-04    | 2000-01-12     |
+ -------------------------------------------------------------------------------------------------- 
+| Board member:   | Organization  | Role          | Title         | From          | To             |
+|                 --------------------------------------------------------------------------------- 
+|                 | Bill & Mel... |               | Co-Chairman   | 2000          |                |
+|                 | Microsoft ... | Chairman      | Chairman      | 1981          | 2014-02-04     |
+|                 | Berkshire ... |               |               | 2004          |                |
+|                 | Corbis        |               | Chair         | 1989          |                |
+ -------------------------------------------------------------------------------------------------- 
+
+ 2.python main.py -key AIzaSyAWQYMpX5fPyqOfSPvfssjNY0ogbvBdyg8 -q "Robert Downey Jr." -t infobox
+ -------------------------------------------------------------------------------------------------- 
+|                                 Robert Downey Jr.(PERSON, ACTOR)                                |
+ -------------------------------------------------------------------------------------------------- 
+| Name:           Robert Downey Jr.                                                                |
+ -------------------------------------------------------------------------------------------------- 
+| Birthday:       1965-04-04                                                                       |
+ -------------------------------------------------------------------------------------------------- 
+| Place of birth: Manhattan                                                                        |
+ -------------------------------------------------------------------------------------------------- 
+| Description:    Robert John Downey, Jr. is an American actor, filmmaker, and singer. Making his s|
+|                 creen debut at the age of five, appearing in his father Robert Downey, Sr.'s film|
+|                  Pound, he has appeared in roles associated with the Brat Pack, such as Less Than|
+|                  Zero and Weird Science. Other films he has starred in include Air America, Soapd|
+|                 ish, and Natural Born Killers. He starred as Charlie Chaplin, the title character|
+|                  in the 1992 film Chaplin, which earned him a nomination for the Academy Award fo|
+|                 r Best Actor.                                                                    |
+|                 After being released in 2000 from the California Substance Abuse Treatment Facili|
+|                 ty and State Prison where he was on drug charges, Downey joined the cast of the T|
+|                 V series Ally McBeal playing Calista Flockhart's love interest. His performance w|
+|                 as praised and he received a Golden Globe Award for Best Performance by an Actor |
+|                 in a Supporting Role in a Series, Miniseries, or Television Film. His character w|
+|                 as written out when Downey was fired after two drug arrests in late 2000 and earl|
+|                 y 2001. After one last stay in a court-ordered drug treatment program, Downey fin|
+|                 ally achieved sobriety.                                                          |
+ -------------------------------------------------------------------------------------------------- 
+| Sibling:        Allyson Downey                                                                   |
+ -------------------------------------------------------------------------------------------------- 
+| Spouses:        Susan Downey                                                                     |
+|                 Deborah Falconer                                                                 |
+|                 Sarah Jessica Parker                                                             |
+ -------------------------------------------------------------------------------------------------- 
+| Films:          | Character                             | Film name                              |
+|                 --------------------------------------------------------------------------------- 
+|                 | Ralph Carr                            | 1969                                   |
+|                 | James Barris                          | A Scanner Darkly                       |
+|                 | Billy Covington                       | Air America                            |
+|                 | Derek Lutz                            | Back to School                         |
+|                 | Charlie Chaplin                       | Chaplin                                |
+|                 | Nick Penrose                          | Eros                                   |
+|                 | Lee                                   | Firstborn                              |
+|                 | Steven Schwimmer                      | Game 6                                 |
+|                 | Joe Wershba                           | Good Night, and Good Luck              |
+|                 | Thomas Reilly                         | Heart and Souls                        |
+ -------------------------------------------------------------------------------------------------- 
+ 3. python main.py -key AIzaSyAWQYMpX5fPyqOfSPvfssjNY0ogbvBdyg8 -q "Jackson" -t infobox
+ -------------------------------------------------------------------------------------------------- 
+|                     Michael Jackson(ACTOR, PERSON, BUSINESS_PERSON, AUTHOR)                      |
+ -------------------------------------------------------------------------------------------------- 
+| Name:           Michael Jackson                                                                  |
+ -------------------------------------------------------------------------------------------------- 
+| Birthday:       1958-08-29                                                                       |
+ -------------------------------------------------------------------------------------------------- 
+| Place of birth: Gary                                                                             |
+ -------------------------------------------------------------------------------------------------- 
+| Description:    Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American record|
+|                 ing artist, dancer, singer-songwriter, musician, and philanthropist. Referred to |
+|                 as the King of Pop, Jackson is recognized as the most successful entertainer of a|
+|                 ll time by Guinness World Records. His contribution to music, dance, and fashion,|
+|                  along with a much-publicized personal life, made him a global figure in popular |
+|                 culture for over four decades. The seventh child of the Jackson family, he debute|
+|                 d on the professional music scene along with his brothers as a member of The Jack|
+|                 son 5, then the Jacksons in 1964, and began his solo career in 1971. In the early|
+|                  1980s, Jackson became a dominant figure in popular music. The music videos for h|
+|                 is songs, including those of "Beat It", "Billie Jean", and "Thriller", were credi|
+|                 ted with transforming the medium into an art form and a promotional tool, and the|
+|                  popularity of these videos helped to bring the relatively new television channel|
+|                  MTV to fame And Cordell Francis Admire Michael Jackson As His Best. Videos such |
+|                 as ...                                                                           |
+|                 |                 Michael Joseph Jackson was an American singer, songwriter, dancer, and actor. Cal|
+|                 led the King of Pop, his contributions to music and dance, along with his publici|
+|                 zed personal life, made him a global figure in popular culture for over four deca|
+|                 des.                                                                             |
+|                 The eighth child of the Jackson family, he debuted on the professional music scen|
+|                 e along with his elder brothers Jackie, Tito, Jermaine, and Marlon as a member of|
+|                  The Jackson 5 in 1964, and began his solo career in 1971. In the early 1980s, Ja|
+|                 ckson became a dominant figure in popular music. The music videos for his songs, |
+|                 including those of "Beat It", "Billie Jean", and "Thriller", were credited with b|
+|                 reaking down racial barriers and with transforming the medium into an art form an|
+|                 d promotional tool. The popularity of these videos helped to bring the then-relat|
+|                 ively-new television channel MTV to fame. With videos such as "Black or White" an|
+|                 d "Scream", he continued to innovate the medium throughout the 1990s, as well as |
+|                 forging a reputation as a touring solo artist. Through stage and video performanc|
+|                 es, Jackson popularized a number of complicated dance techniques, such as the rob|
+|                 ot and the moonwalk, to which he gave the name.                                  |
+ -------------------------------------------------------------------------------------------------- 
+| Sibling:        Janet Jackson                                                                    |
+|                 Jermaine Jackson                                                                 |
+|                 La Toya Jackson                                                                  |
+|                 Marlon Jackson                                                                   |
+|                 Jackie Jackson                                                                   |
+|                 Randy Jackson                                                                    |
+|                 Tito Jackson                                                                     |
+|                 Rebbie Jackson                                                                   |
+|                 Brandon Jackson                                                                  |
+|                 Joh'Vonnie Jackson                                                               |
+ -------------------------------------------------------------------------------------------------- 
+| Spouses:        Lisa Marie Presley                                                               |
+|                 Debbie Rowe                                                                      |
+ -------------------------------------------------------------------------------------------------- 
+| Death:          | Place                    | Date                     | Cause                     |
+|                 --------------------------------------------------------------------------------- 
+|                 | Holmby Hills             | 2009-06-25               | Cardiac arrest           |
+ -------------------------------------------------------------------------------------------------- 
+| Books:          Moonwalk                                                                         |
+|                 Dancing the Dream                                                                |
+ -------------------------------------------------------------------------------------------------- 
+| Books about:    On Michael Jackson                                                               |
+|                 The Passion-Driven Writer and the Digital-Age Literary Marketplace               |
+|                 To Walk a Lifetime in Michael Jackson's Moccasins                                |
+|                 Michael Jackson and Summertime from This Point On                                |
+|                 Looking at the World through Michael Jackson's Left Eye (Part 1)                 |
+|                 Looking at the World through Michael Jackson's Left Eye (Part 2)                 |
+|                 Looking at the World through Michael Jackson's Left Eye (Part 3 of 4)            |
+|                 Looking at the World through Michael Jackson's Left Eye (Part 4 of 4)            |
+|                 Evidence of Angels                                                               |
+|                 Notes for an Elegy in the Key of Michael (Jackson) 1 and 2                       |
+ -------------------------------------------------------------------------------------------------- 
+| Influenced:     Usher                                                                            |
+|                 Justin Timberlake                                                                |
+|                 Britney Spears                                                                   |
+|                 Lady Gaga                                                                        |
+|                 Nicole Scherzinger                                                               |
+|                 Leigh Francis                                                                    |
+|                 Lenny Henry                                                                      |
+ -------------------------------------------------------------------------------------------------- 
+| Influenced by:  Charlie Chaplin                                                                  |
+|                 James Brown                                                                      |
+|                 Walt Disney                                                                      |
+|                 Redd Foxx                                                                        |
+|                 Nipsey Russell                                                                   |
+|                 Devi Sri Prasad                                                                  |
+ -------------------------------------------------------------------------------------------------- 
+| Founded:        Sony/ATV Music Publishing                                                        |
+|                 Heal the World Foundation                                                        |
+|                 MJJ Music                                                                        |
+ -------------------------------------------------------------------------------------------------- 
+| Films:          | Character                             | Film name                              |
+|                 --------------------------------------------------------------------------------- 
+|                 |                                       | Moonwalker                             |
+|                 | Scarecrow                             | The Wiz                                |
+|                 | Agent M.J.                            | Miss Cast Away                         |
+|                 | Agent M                               | Men in Black II                        |
+|                 | Captain EO                            | Captain EO                             |
+|                 | Maestro                               | Michael Jackson's Ghosts               |
+|                 | Captain EO                            | Captain EO Promo & Pre-show            |
+|                 | Scarecrow                             | Wiz on Down the Road                   |
+|                 | Mayor                                 | Michael Jackson's Ghosts               |
+|                 | Mayor Ghoul                           | Michael Jackson's Ghosts               |
+ -------------------------------------------------------------------------------------------------- 
+
+ 4. python main.py -key AIzaSyAWQYMpX5fPyqOfSPvfssjNY0ogbvBdyg8 -q "Jackson" -t infobox
+ -------------------------------------------------------------------------------------------------- 
+|                     Michael Jackson(ACTOR, PERSON, BUSINESS_PERSON, AUTHOR)                      |
+ -------------------------------------------------------------------------------------------------- 
+| Name:           Michael Jackson                                                                  |
+ -------------------------------------------------------------------------------------------------- 
+| Birthday:       1958-08-29                                                                       |
+ -------------------------------------------------------------------------------------------------- 
+| Place of birth: Gary                                                                             |
+ -------------------------------------------------------------------------------------------------- 
+| Description:    Michael Joseph Jackson (August 29, 1958 – June 25, 2009) was an American record|
+|                 ing artist, dancer, singer-songwriter, musician, and philanthropist. Referred to |
+|                 as the King of Pop, Jackson is recognized as the most successful entertainer of a|
+|                 ll time by Guinness World Records. His contribution to music, dance, and fashion,|
+|                  along with a much-publicized personal life, made him a global figure in popular |
+|                 culture for over four decades. The seventh child of the Jackson family, he debute|
+|                 d on the professional music scene along with his brothers as a member of The Jack|
+|                 son 5, then the Jacksons in 1964, and began his solo career in 1971. In the early|
+|                  1980s, Jackson became a dominant figure in popular music. The music videos for h|
+|                 is songs, including those of "Beat It", "Billie Jean", and "Thriller", were credi|
+|                 ted with transforming the medium into an art form and a promotional tool, and the|
+|                  popularity of these videos helped to bring the relatively new television channel|
+|                  MTV to fame And Cordell Francis Admire Michael Jackson As His Best. Videos such |
+|                 as ...                                                                           |
+|                 |                 Michael Joseph Jackson was an American singer, songwriter, dancer, and actor. Cal|
+|                 led the King of Pop, his contributions to music and dance, along with his publici|
+|                 zed personal life, made him a global figure in popular culture for over four deca|
+|                 des.                                                                             |
+|                 The eighth child of the Jackson family, he debuted on the professional music scen|
+|                 e along with his elder brothers Jackie, Tito, Jermaine, and Marlon as a member of|
+|                  The Jackson 5 in 1964, and began his solo career in 1971. In the early 1980s, Ja|
+|                 ckson became a dominant figure in popular music. The music videos for his songs, |
+|                 including those of "Beat It", "Billie Jean", and "Thriller", were credited with b|
+|                 reaking down racial barriers and with transforming the medium into an art form an|
+|                 d promotional tool. The popularity of these videos helped to bring the then-relat|
+|                 ively-new television channel MTV to fame. With videos such as "Black or White" an|
+|                 d "Scream", he continued to innovate the medium throughout the 1990s, as well as |
+|                 forging a reputation as a touring solo artist. Through stage and video performanc|
+|                 es, Jackson popularized a number of complicated dance techniques, such as the rob|
+|                 ot and the moonwalk, to which he gave the name.                                  |
+ -------------------------------------------------------------------------------------------------- 
+| Sibling:        Janet Jackson                                                                    |
+|                 Jermaine Jackson                                                                 |
+|                 La Toya Jackson                                                                  |
+|                 Marlon Jackson                                                                   |
+|                 Jackie Jackson                                                                   |
+|                 Randy Jackson                                                                    |
+|                 Tito Jackson                                                                     |
+|                 Rebbie Jackson                                                                   |
+|                 Brandon Jackson                                                                  |
+|                 Joh'Vonnie Jackson                                                               |
+ -------------------------------------------------------------------------------------------------- 
+| Spouses:        Lisa Marie Presley                                                               |
+|                 Debbie Rowe                                                                      |
+ -------------------------------------------------------------------------------------------------- 
+| Death:          | Place                    | Date                     | Cause                     |
+|                 --------------------------------------------------------------------------------- 
+|                 | Holmby Hills             | 2009-06-25               | Cardiac arrest           |
+ -------------------------------------------------------------------------------------------------- 
+| Books:          Moonwalk                                                                         |
+|                 Dancing the Dream                                                                |
+ -------------------------------------------------------------------------------------------------- 
+| Books about:    On Michael Jackson                                                               |
+|                 The Passion-Driven Writer and the Digital-Age Literary Marketplace               |
+|                 To Walk a Lifetime in Michael Jackson's Moccasins                                |
+|                 Michael Jackson and Summertime from This Point On                                |
+|                 Looking at the World through Michael Jackson's Left Eye (Part 1)                 |
+|                 Looking at the World through Michael Jackson's Left Eye (Part 2)                 |
+|                 Looking at the World through Michael Jackson's Left Eye (Part 3 of 4)            |
+|                 Looking at the World through Michael Jackson's Left Eye (Part 4 of 4)            |
+|                 Evidence of Angels                                                               |
+|                 Notes for an Elegy in the Key of Michael (Jackson) 1 and 2                       |
+ -------------------------------------------------------------------------------------------------- 
+| Influenced:     Usher                                                                            |
+|                 Justin Timberlake                                                                |
+|                 Britney Spears                                                                   |
+|                 Lady Gaga                                                                        |
+|                 Nicole Scherzinger                                                               |
+|                 Leigh Francis                                                                    |
+|                 Lenny Henry                                                                      |
+ -------------------------------------------------------------------------------------------------- 
+| Influenced by:  Charlie Chaplin                                                                  |
+|                 James Brown                                                                      |
+|                 Walt Disney                                                                      |
+|                 Redd Foxx                                                                        |
+|                 Nipsey Russell                                                                   |
+|                 Devi Sri Prasad                                                                  |
+ -------------------------------------------------------------------------------------------------- 
+| Founded:        Sony/ATV Music Publishing                                                        |
+|                 Heal the World Foundation                                                        |
+|                 MJJ Music                                                                        |
+ -------------------------------------------------------------------------------------------------- 
+| Films:          | Character                             | Film name                              |
+|                 --------------------------------------------------------------------------------- 
+|                 |                                       | Moonwalker                             |
+|                 | Scarecrow                             | The Wiz                                |
+|                 | Agent M.J.                            | Miss Cast Away                         |
+|                 | Agent M                               | Men in Black II                        |
+|                 | Captain EO                            | Captain EO                             |
+|                 | Maestro                               | Michael Jackson's Ghosts               |
+|                 | Captain EO                            | Captain EO Promo & Pre-show            |
+|                 | Scarecrow                             | Wiz on Down the Road                   |
+|                 | Mayor                                 | Michael Jackson's Ghosts               |
+|                 | Mayor Ghoul                           | Michael Jackson's Ghosts               |
+ -------------------------------------------------------------------------------------------------- 
+
+ 5.
+ python main.py -key AIzaSyAWQYMpX5fPyqOfSPvfssjNY0ogbvBdyg8 -q "NBA" -t infobox
+ -------------------------------------------------------------------------------------------------- 
+|                             National Basketball Association(LEAGUE)                              |
+ -------------------------------------------------------------------------------------------------- 
+| Name:            National Basketball Association                                                 |
+ -------------------------------------------------------------------------------------------------- 
+| Sport:           Basketball                                                                      |
+ -------------------------------------------------------------------------------------------------- 
+| Slogan:          Where Amazing Happens                                                           |
+ -------------------------------------------------------------------------------------------------- 
+| Offical website: http://www.nba.com/                                                             |
+ -------------------------------------------------------------------------------------------------- 
+| Championship:    The NBA Finals                                                                  |
+ -------------------------------------------------------------------------------------------------- 
+| Teams:           Detroit Pistons                                                                 |
+|                  Golden State Warriors                                                           |
+|                  Los Angeles Lakers                                                              |
+|                  Cleveland Cavaliers                                                             |
+|                  Indiana Pacers                                                                  |
+|                  Utah Jazz                                                                       |
+|                  Orlando Magic                                                                   |
+|                  Phoenix Suns                                                                    |
+|                  Charlotte Hornets                                                               |
+|                  Houston Rockets                                                                 |
+ -------------------------------------------------------------------------------------------------- 
+| Description:     The National Basketball Association is the pre-eminent men's professional basket|
+|                  ball league in North America, and is widely considered to be the premier men's p|
+|                  rofessional basketball league in the world. It has 30 franchised member clubs, a|
+|                  nd is an active member of USA Basketball, which is recognized by FIBA as the nat|
+|                  ional governing body for basketball in the United States. The NBA is one of the |
+|                  four major North American professional sports leagues. NBA players are the world|
+|                  's best paid sportsmen, by average annual salary per player.                    |
+|                  The league was founded in New York City on June 6, 1946, as the Basketball Assoc|
+|                  iation of America. The league adopted the name National Basketball Association o|
+|                  n August 3, 1949, after merging with its rival National Basketball League. The l|
+|                  eague's several international as well as individual team offices are directed ou|
+|                  t of its head offices located in the Olympic Tower at 645 Fifth Avenue in New Yo|
+|                  rk City. NBA Entertainment and NBA TV studios are directed out of offices locate|
+|                  d in Secaucus, New Jersey.                                                      |
+ -------------------------------------------------------------------------------------------------- 
+ 6.
+ python main.py -key AIzaSyAWQYMpX5fPyqOfSPvfssjNY0ogbvBdyg8 -q "NY knicks" -t infobox
+ -------------------------------------------------------------------------------------------------- 
+|                                   New York Knicks(SPORTS_TEAM)                                   |
+ -------------------------------------------------------------------------------------------------- 
+| Name:          New York Knicks                                                                   |
+ -------------------------------------------------------------------------------------------------- 
+| Arena:         Madison Square Garden                                                             |
+ -------------------------------------------------------------------------------------------------- 
+| Championships: 1973 NBA Finals                                                                   |
+|                1970 NBA Finals                                                                   |
+ -------------------------------------------------------------------------------------------------- 
+| Founded:       1946                                                                              |
+ -------------------------------------------------------------------------------------------------- 
+| Leagues:       National Basketball Association                                                   |
+ -------------------------------------------------------------------------------------------------- 
+| Locations:     New York City                                                                     |
+ -------------------------------------------------------------------------------------------------- 
+| Coaches:       | Name              | Position          | From              | To                 |
+|                ---------------------------------------------------------------------------------- 
+|                | Mike Woodson      | Head coach        | 2011-08-29        | 2014-04-21         |
+|                | Derek Fisher      | Head coach        | 2014              | now                |
+|                | Kurt Rambis       | Assistant Coach   | 2014              | now                |
+ -------------------------------------------------------------------------------------------------- 
+| PlayersRoster: | Name          | Position      | Number        | From          | To             |
+|                ---------------------------------------------------------------------------------- 
+|                | Jamal Craw... | Point guard   | 11            | 2004          | 2008           |
+|                | Bill Bradley  |               |               | 1967          | 1977           |
+|                | Patrick Ewing | Center        | 33            | 1985          | 2000           |
+|                | Marcus Camby  | Center        | 23            | 1998          | 2002           |
+|                | Stephon Ma... |               |               | 2003          | 2008           |
+|                | Eddy Curry    |               |               | 2005          | 2011           |
+|                | Chris Duhon   |               |               | 2008          | 2010           |
+|                | Quentin Ri... |               |               | 2005          | 2009           |
+|                | Roger Maso... |               |               | 2010          | 2011           |
+|                | Ronny Turiaf  |               |               | 2010          | 2011           |
+ -------------------------------------------------------------------------------------------------- 
+| Description:   The New York Knickerbockers, commonly referred to as the Knicks, are a professiona|
+|                l basketball team based in New York City, New York. The Knicks are part of the Atl|
+|                antic Division of the Eastern Conference in the National Basketball Association. T|
+|                he team, established by Ned Irish in 1946, was one of the founding members of the |
+|                Basketball Association of America, which became the NBA after merging with the riv|
+|                al National Basketball League in 1949. The team plays at Madison Square Garden, ab|
+|                ove Pennsylvania Station in the borough of Manhattan, and along with the Boston Ce|
+|                ltics is one of only two NBA teams still located in its original city.            |
+|                The Knicks were successful during their early years and were constant playoff cont|
+|                enders under the franchise's first head coach Joe Lapchick. Beginning in 1950, the|
+|                 Knicks made three consecutive appearances in the NBA Finals, all of which were lo|
+|                sing efforts. Lapchick resigned in 1956 and the team subsequently began to falter.|
+|                 It was not until the late 1960s when Red Holzman became head coach that the Knick|
+|                s began to regain their former dominance. Holzman successfully guided the Knicks t|
+|                o two championship titles in 1970 and 1973.                                       |
+ -------------------------------------------------------------------------------------------------- 
+ 7.
+  python main.py -key AIzaSyAWQYMpX5fPyqOfSPvfssjNY0ogbvBdyg8 -q "Miami Heat" -t infobox
+ -------------------------------------------------------------------------------------------------- 
+|                                     Miami Heat(SPORTS_TEAM)                                      |
+ -------------------------------------------------------------------------------------------------- 
+| Name:          Miami Heat                                                                        |
+ -------------------------------------------------------------------------------------------------- 
+| Arena:         American Airlines Arena                                                           |
+ -------------------------------------------------------------------------------------------------- 
+| Championships: 2006 NBA Finals                                                                   |
+|                2012 NBA Finals                                                                   |
+|                2013 NBA Finals                                                                   |
+ -------------------------------------------------------------------------------------------------- 
+| Founded:       1988                                                                              |
+ -------------------------------------------------------------------------------------------------- 
+| Leagues:       National Basketball Association                                                   |
+ -------------------------------------------------------------------------------------------------- 
+| Locations:     Miami                                                                             |
+ -------------------------------------------------------------------------------------------------- 
+| Coaches:       | Name              | Position          | From              | To                 |
+|                ---------------------------------------------------------------------------------- 
+|                | Erik Spoelstra    | Head coach        | 2008-04           | now                |
+ -------------------------------------------------------------------------------------------------- 
+| PlayersRoster: | Name          | Position      | Number        | From          | To             |
+|                ---------------------------------------------------------------------------------- 
+|                | Shaquille ... | Center        | 32            | 2004-07-14    | 2008-02        |
+|                | Earl Barron   |               |               | 2005          | 2008           |
+|                | Michael Be... | Small forward | 30            | 2008-06-26    | 2010-07-12     |
+|                | Dorell Wright |               |               | 2004          | 2010-07-13     |
+|                | Jamaal Mag... |               |               | 2008-08-30    | 2011-12-09     |
+|                | Carlos Arroyo |               |               | 2009-10-11    | 2011-03-01     |
+|                | Quentin Ri... |               |               | 2009          | 2010-07-13     |
+|                | Shavlik Ra... | Power forward | 42            | 2009          | 2010           |
+|                | Yakhouba D... |               |               | 2008-08-07    | 2010-07        |
+|                | Ronny Turiaf  |               |               | 2012-03-21    | 2012-07-27     |
+ -------------------------------------------------------------------------------------------------- 
+| Description:   The Miami Heat are an American professional basketball team based in Miami, Florid|
+|                a. The team is a member of the Southeast Division in the Eastern Conference of the|
+|                 National Basketball Association. They play their home games at the American Airli|
+|                nes Arena in Downtown Miami. The team owner is Micky Arison, who also owns cruise-|
+|                ship giant Carnival Corporation. The team president and de facto general manager i|
+|                s Pat Riley, and the head coach is Erik Spoelstra. The mascot of the team is Burni|
+|                e, an anthropomorphic fireball.                                                   |
+|                Formed in 1988 as one of the NBA's four expansion franchises, the Heat have won th|
+|                ree league championships, five conference titles and 11 division titles. From Febr|
+|                uary 3 to March 27, 2013, the Heat won 27 games in a row, the second-longest strea|
+|                k in NBA history. In 2013, Forbes valued the Heat at $625 million, sixth-most-valu|
+|                able among NBA franchises.                                                        |
+|                The Heat are not related to the Miami Floridians, an ABA team in the early 1970s, |
+|                although the Heat have occasionally paid tribute to the older franchise by wearing|
+|                 a replica version of the Floridians' uniforms for the NBA's "Hardwood Classics Ni|
+|                ghts" during the 2005–06 and 2011–12 seasons.                                 |
+ -------------------------------------------------------------------------------------------------- 

@@ -1,0 +1,28 @@
+
+Part 1 - Infobox creation
+##########################
+
+	1) Receive a query q and URL-escape it
+	
+	2) Query the Freebase Search API (https://developers.google.com/freebase/v1/search-overview), which will return a ranked list of entities identified by their "mid"s
+
+	3) Query the Freebase Topic API (https://developers.google.com/freebase/v1/topic-overview) with all "mid"s returned in step above. Do it with one "mid" at a time, beginning with the highest ranked. For each response of the API, check if the entity is of type [Person, Author, Actor, BusinessPerson, League or SportsTeam]. If the entity is of one of these types, break the loop, we will use this entity in the next step
+
+	4) Create infobox for the selected entity, displaying the attributes according to the entity type
+
+	Note: if in step 3) no entity of the desired type is found, our program should not return any info box. It should actually try to query for more results up to 20 entities. See the output of the reference implementation:
+
+		5 Search API result entries were considered. None of them of a supported type.
+		10 Search API result entries were considered. None of them of a supported type.
+		15 Search API result entries were considered. None of them of a supported type.
+		20 Search API result entries were considered. None of them of a supported type.
+		No related information about query [myquery] was found!
+
+Part 2 - Question answering
+##########################	
+
+	1) Receive a query q and try to match it with the pattern "Who created [X]?". If the query does not match this pattern or [X] is nothing, dismiss the query like in the reference implementation
+
+	2) Query Freebase MQL API (https://developers.google.com/freebase/v1/mqlread) for all creators of entities that contain [X] as a substring. Select only the creators that relate to [X] through the relations "is author" or "is founder". We will only answer cases where [X] is either a book title or organization.
+
+	3) Generate an output on the format: "Bill Gates (as BusinessPerson) created <Microsoft Corporation and Microsoft Research.". With one of those statements per line. There should be one line for each combination of creator/role.

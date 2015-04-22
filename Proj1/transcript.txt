@@ -1,0 +1,4089 @@
+=====================================
+ROUND 1
+QUERY gump
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.gumps.com/
+    Title: Gump's San Francisco - Unique Gifts, Home Decor, Jewelry ...
+    Summary: Gump's San Francisco. The legendary destination for unique gifts, fine jewelry, luxurious home decor, and one of a kind decorative objects. Since 1861.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.urbandictionary.com/define.php?term=Gump
+    Title: Words related to Gump - Urban Dictionary: Gump
+    Summary: Person # 1: Hey, he let that dude smack him and ain't even say nothing Person# 2 He such a Gump
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Forrest_Gump
+    Title: Forrest Gump - Wikipedia, the free encyclopedia
+    Summary: Forrest Gump is a 1994 American epic romantic-comedy-drama film based on the 1986 novel of the same name by Winston Groom. The film was directed by Robert ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://www.merriam-webster.com/dictionary/gump
+    Title: Gump - Definition and More from the Free Merriam-Webster ...
+    Summary: Definition of GUMP chiefly Scottish: guddle. Origin of GUMP. origin unknown. This word doesn't usually appear in our free dictionary, but the definition from our ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://gumppreschool.org/
+    Title: Ghent United Methodist Preschool | GUMP – Norfolk, Virginia
+    Summary: Here at Ghent United Methodist Preschool (GUMP), our goal is to provide a nurturing and supportive atmosphere in which your child will feel secure, loved and valued ...
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.imdb.com/title/tt0109830/
+    Title: Forrest Gump (1994) - IMDb
+    Summary: Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Gump
+    Title: Gump - Wikipedia, the free encyclopedia
+    Summary: Gump or Gumps may refer to: Arts and entertainment . Forrest Gump (character), the eponymous lead character in a novel by Winston Groom and its screen adaptation
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.youtube.com/watch?v=hQwWaWFjd0Y
+    Title: "Weird Al" Yankovic - Gump - YouTube
+    Summary: Music video by "Weird Al" Yankovic performing Gump. YouTube view counts pre-VEVO: 28,334 (C) 1996 Volcano Entertainment lll, LLC
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://dictionary.reference.com/browse/Gump
+    Title: Gump | Define Gump at Dictionary.com
+    Summary: Slang definitions & phrases for gump Expand gump noun A fool; dolt; knucklehead (1825+) A chicken, esp a stolen one (1899+ Hoboes) A male homosexual (1950s+ Prison ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.gumps.com/decor
+    Title: Decor | Gump's
+    Summary: Shop Decor at Gump's ... Sign Up for Email. Join our e-mail list to learn about new products, special offers and store events.
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.columbiarestaurant.com/
+    Title: Columbia Restaurant - Florida’s Oldest Restaurant
+    Summary: The Columbia Restaurant Group corporate home page. Entry point to information about Florida's oldest restaurant, The Columbia Restaurant.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: Cristen Scully Kromm has been appointed Dean of Undergraduate Student Life for Columbia College and The Fu Foundation School of Engineering and Applied Science ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbiacvb.com/
+    Title: Columbia SC Official Website | Events, Restaurants, Hotels ...
+    Summary: Find official travel information about Columbia, SC, including hotels, restaurants, events, and more from the online travel resource of Columbia, South Carolina, the ...
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 2
+QUERY columbia new college
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: Columbia College and Columbia Engineering announce new Dean of Undergraduate Student Life. ... Columbia College. Columbia University in the City of New York
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/New_College,_Teachers_College,_Columbia_University
+    Title: New College, Teachers College, Columbia University ...
+    Summary: New College for the Education of Teachers (or simply New College) was a progressive undergraduate college under the auspices of Teachers College, Columbia University ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://colleges.usnews.rankingsandreviews.com/best-colleges/columbia-university-2707
+    Title: Columbia University | Best College | US News
+    Summary: Is Columbia University the best college for you? Find out at US News. See if Columbia University is ranked and get info on admission, tuition, student life, and more.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.ccis.edu/
+    Title: Columbia College: On Campus & Online - Associate, Bachelor ...
+    Summary: Columbia College Columbia College, providing adult education, distance learning, online degrees and education at more than 30 campuses across the country.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.columbiacollege.ca/about/new-campus
+    Title: Columbia College | New Campus
+    Summary: Columbia College opened the doors to its new campus at 438 Terminal Avenue, Vancouver, British Columbia.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia_university
+    Title: Columbia University - Wikipedia, the free encyclopedia
+    Summary: Columbia University in the City of New York, or simply Columbia University, is an American private Ivy League research university located in the ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.columbia.edu/content/admissions.html
+    Title: Admissions | Columbia University in the City of New York
+    Summary: Columbia University in the City of New York. ... The College Dean's office and the Undergraduate Admissions Office for Columbia College and the Fu Foundation School ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbiasc.edu/
+    Title: Columbia College South Carolina
+    Summary: A private liberal arts college for women founded in 1854, with a co-educational graduate school and evening college.
+]
+
+PRECISION 0.8
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 ...
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.columbiarestaurant.com/
+    Title: Columbia Restaurant - Florida’s Oldest Restaurant
+    Summary: The Columbia Restaurant Group corporate home page. Entry point to information about Florida's oldest restaurant, The Columbia Restaurant.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.columbiacvb.com/
+    Title: Columbia SC Official Website | Events, Restaurants, Hotels ...
+    Summary: Find official travel information about Columbia, SC, including hotels, restaurants, events, and more from the online travel resource of Columbia, South Carolina, the ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: Cristen Scully Kromm has been appointed Dean of Undergraduate Student Life for Columbia College and The Fu Foundation School of Engineering and Applied Science ...
+]
+
+PRECISION 0.1
+
+=====================================
+ROUND 2
+QUERY columbia new 1754
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.edu/content/history.html
+    Title: History | Columbia University in the City of New York
+    Summary: A Brief History of Columbia. Columbia University was founded in 1754 as King's College by royal charter of King George II of England. It is the oldest institution of ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia_university
+    Title: Columbia University - Wikipedia, the free encyclopedia
+    Summary: Columbia University in the City of New York, or simply Columbia University, is an American private Ivy League research university located in the ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://colleges.usnews.rankingsandreviews.com/best-colleges/columbia-university-2707
+    Title: Columbia University | Best College | US News
+    Summary: Is Columbia University the best college for you? Find out at US News. See if Columbia University is ranked and get info on admission, tuition, student life, and more.
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://www.campusexplorer.com/colleges/F67C6328/New-York/New-York/Columbia-University-in-the-City-of-New-York/
+    Title: Columbia University in the City of New York | (212) 854-1754
+    Summary: Get Columbia University in the City of New York information such as admissions requirements, degree programs offered, tuition, financial aid, campus map, school ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia_College,_Columbia_University
+    Title: Columbia College, Columbia University - Wikipedia, the ...
+    Summary: History . Columbia College was founded as King’s College by royal charter of King George II of Great Britain in the Province of New York in 1754.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.nonprofitfacts.com/NY/The-1754-Alumni-Club-Ltd-The-Columbia-Club-Of-New-York.html
+    Title: The 1754 Alumni Club Ltd, The Columbia Club Of New York in ...
+    Summary: The 1754 Alumni Club Ltd, The Columbia Club Of New York: Employer Identification Number (EIN) 133088480: Name of Organization: The 1754 Alumni Club Ltd
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.columbia.planyourlegacy.org/heritage.php
+    Title: Giving to Columbia: Planned Giving: 1754 Society
+    Summary: Gift Planning > 1754 Society An Invitation to Join the 1754 Society . The 1754 Societyis an honorary society for alumni and friends of Columbia who ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.boattrader.com/listing/2015-Tracker-Grizzly-1754-SC-102400459
+    Title: New 2015 Tracker Grizzly 1754 Sc, Columbia, Mo - 65202 ...
+    Summary: Check out this New 2015 Tracker Grizzly 1754 Sc for sale in Columbia, Mo. View this Utility Boats and other Power boats on Boattrader.com
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.britannica.com/EBchecked/topic/126960/Columbia-Encyclopedia
+    Title: Columbia Encyclopedia | Encyclopedia Britannica
+    Summary: Columbia Encyclopedia, in full The New Columbia Encyclopedia, highly regarded one-volume encyclopaedia, international in scope and useful for quick location of ...
+]
+
+PRECISION 0.7
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The Columbia Faculty of Arts and Sciences has announced this year’s awardees of the Lenfest Distinguished Teaching Award.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.3
+
+=====================================
+ROUND 1
+QUERY gates
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.gates.com/
+    Title: Gates Corporation
+    Summary: Gates Corporation is Powering Progress™ in the Oil & Gas, Energy, Mining, Marine, Agriculture, Transportation and Automotive Industries.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.gateschevyworld.com/
+    Title: Gates Chevy World - Mishawaka, Elkhart, South Bend
+    Summary: Gates Chevy World in Mishawaka serves South Bend, Michiana and Elkhart Chevrolet customers with new and used vehicles. Stop by for a test drive today!
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3Agates
+    Title: Amazon.com: gates
+    Summary: Product Description... Easy Open Extra Wide Safety Gate boasts 100 percent steel ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://www.gates.com/industries/automotive
+    Title: Gates Automotive Aftermarket Solutions | Gates Corporation
+    Summary: Gates offers a complete line of original equipment (OE) automotive aftermarket products and solutions, including automotive hose, belts, & accessories.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: https://www.facebook.com/gatesnj
+    Title: gates | Facebook
+    Summary: Kevin Dye from Gates performs an acoustic version of the very first song Gates wrote together. He also discusses how he started playing music, ...
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.gatecrafters.com/design_your_gates.aspx
+    Title: Driveway Gates | Automatic Gates | Electric Gates
+    Summary: Driveway Gates - Automatic Gates The high-quality driveway gates from GateCrafters.com come in a wide variety of options to ...
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.gatesbbq.com/
+    Title: Gates Bar B.Q.
+    Summary: With the tantalizing hickory barbecue smell drawing the customer through the ranch-style doors, he is immediately greeted.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://navigates.gates.com/
+    Title: NaviGates - Gates Corporation
+    Summary: Gates high quality belt & hose solutions support your energy, exploration, extraction, infrastructure, agriculture & transportation needs.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.toysrus.com/family/index.jsp?categoryId=2256222
+    Title: Baby Gates - Babies"R"Us
+    Summary: Safe & durable baby gates will keep your baby safe. Choose from a large assortment of baby gates including extra wide gates to suit your needs. Shop today.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Bill_Gates
+    Title: Bill Gates - Wikipedia, the free encyclopedia
+    Summary: William Henry "Bill" Gates III (born October 28, 1955) is an American business magnate, philanthropist, investor, computer programmer, and inventor. Gates originally ...
+]
+
+PRECISION 0.1
+
+=====================================
+ROUND 1
+QUERY aladdin
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)
+    Title: Aladdin (1992 Disney film) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a 1992 American animated musical fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. Aladdin is the 31st animated ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.imdb.com/title/tt0103639/
+    Title: Aladdin (1992) - IMDb
+    Summary: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. When a street urchin vies for the love of a beautiful ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_and_the_Magic_Lamp
+    Title: Aladdin - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a Middle Eastern folk tale. It is one of the tales in The Book of One Thousand and One Nights ("The Arabian Nights"), and one of the best known, although ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://movies.disney.com/aladdin
+    Title: Aladdin | Disney Movies
+    Summary: In the heart of an enchanted city, a commoner named Aladdin and his mischievous monkey, Abu, battle to save the free-spirited Princess Jasmine.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://disney.wikia.com/wiki/Aladdin
+    Title: Aladdin - DisneyWiki - Wikia
+    Summary: Aladdin is a 1992 American animated adventure film, the thirty-first animated feature in the Disney Animated Canon, and the fourth entry of the Disney Renaissance ...
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AAladdin
+    Title: Amazon.com: Aladdin
+    Summary: Product Description... fairy tale with our Classic Aladdin Doll. Dressed in his peasant ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.aladdin-pmi.com/
+    Title: Aladdin | Home
+    Summary: Official site for Aladdin brand portable coffee mugs, customizable create your own artwork tumblers, Migo travel mugs, Aveo stainless steel bottles, and on the go ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.rottentomatoes.com/m/1042582-aladdin
+    Title: Aladdin - Rotten Tomatoes
+    Summary: Robin Williams's dizzying and hilarious voicing of the Genie is the main attraction of Aladdin, the third in the series of modern Disney animated movies that began ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/tickets
+    Title: ALADDIN the Musical Tickets | ALADDIN on Broadway Official ...
+    Summary: Buy Tickets to Broadway's new musical comedy ALADDIN at the New Amsterdam Theatre in New York City!
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY jaguar
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.jaguarusa.com/index.html
+    Title: Jaguar : Luxury Cars & Sports Cars | Jaguar USA
+    Summary: The official home of Jaguar USA. Our luxury cars feature innovative designs along with legendary performance to deliver one of the top sports cars in the industry.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.jaguar.com/index.html
+    Title: Jaguar - How Alive Are You?
+    Summary: Jaguar has always believed that a car is the closest thing you can create to something that is alive. Discover our luxury models: XF, XJ, XK , XE, F-TYPE.
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Jaguar_%28animal%29
+    Title: Jaguar - Wikipedia, the free encyclopedia
+    Summary: The jaguar, a compact and well-muscled animal, is the largest cat in the New World and the largest carnivorous mammal in Central and South America. Size and weight ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://www.cars.com/jaguar/
+    Title: Jaguar - Models, MPG, Prices, Comparisons, Reviews | Cars.com
+    Summary: Compare Jaguar models: research features and specs, view photos and video, read expert and consumer reviews, find local dealers and listings, get a quote and ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://animals.nationalgeographic.com/animals/mammals/jaguar/
+    Title: Jaguars, Jaguar Pictures, Jaguar Facts - National Geographic
+    Summary: Learn all you wanted to know about jaguars with pictures, videos, photos, facts, and news from National Geographic.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.edmunds.com/jaguar/
+    Title: Jaguar Reviews - Jaguar Cars | Edmunds.com
+    Summary: Jaguar cars: research Jaguar cars, read Jaguar reviews, find Jaguar car listings and get Jaguar pricing & dealer quotes.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.motortrend.com/new_cars/01/jaguar/
+    Title: New Jaguar Cars - Find 2015 2016 Jaguar Car Prices ...
+    Summary: Find new Jaguar cars and 2015 2016 Jaguar cars at Motor Trend. Research a new Jaguar car, find Jaguar prices, read reviews, or buy a new Jaguar online today.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.ebay.com/sch/i.html?_nkw=jaguar
+    Title: jaguar | eBay - Electronics, Cars, Fashion, Collectibles ...
+    Summary: Find great deals on eBay for jaguar jaguar xk. Shop with confidence.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Jaguar_(car)
+    Title: Jaguar Cars - Wikipedia, the free encyclopedia
+    Summary: Jaguar Cars is a brand of Jaguar Land Rover, a British multinational car manufacturer headquartered in Whitley, Coventry, England, owned by the Indian company Tata ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.autotrader.com/Jaguar-cars.jsp
+    Title: New Jaguar Cars - AutoTrader.com
+    Summary: 2016 Jaguar cars at AutoTrader.com. Get information about New 2016 Jaguar cars, find information on 2016 Jaguar cars, car prices, Jaguar car dealers near you, and ...
+]
+
+PRECISION 0.7
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.3
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.8
+
+=====================================
+ROUND 2
+QUERY columbia the mens
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outerwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/SportSelect.dbml?SPID=3886
+    Title: Men's Basketball - News - GoColumbiaLions.com—Official ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.amazon.com/Columbia-Mens-Meeker-Short-Sleeve/dp/B006RDOWVM
+    Title: Amazon.com: Columbia Men's Meeker Peak Short Sleeve Crew ...
+    Summary: The Meeker Peak shirt is very thin, very light, very comfortable, and not at all durable. Impressed with the durability of my Columbia All Trail shirts, I bought the ...
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.backcountry.com/columbia-mens-jackets
+    Title: Columbia Men's Jackets & Coats | Backcountry.com
+    Summary: Buy Columbia jackets online at Backcountry.com. Find great deals on the latest casual and outerwear Jackets from Columbia.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Women's and Men's Indoor Track & Field Teams Are Highest Ranked Among the Ivies COLUMBIA ATHLETICS
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.kohls.com/catalog/mens-columbia.jsp?CN=4294723349+4294874927
+    Title: Mens Columbia | Kohl's
+    Summary: Enjoy free shipping and easy returns every day at Kohl’s. Find great deals on Mens Columbia at Kohl’s today!
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.ebay.com/itm/Mens-Columbia-ski-jacket-/131433842309
+    Title: Mens Columbia Ski Jacket | eBay
+    Summary: Brand new with tags still attached. Mens size XL Columbia jacket. Multi layer. Has hood. Original price $250.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://espn.go.com/mens-college-basketball/team/_/id/171/columbia-lions
+    Title: Columbia Men's College Basketball - Lions News, Scores ...
+    Summary: Columbia Lions basketball scores, news, schedule, players, stats, photos, rumors, and video highlights on ESPN.com.
+]
+
+PRECISION 0.4
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.3
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY aladdin
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)
+    Title: Aladdin (1992 Disney film) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a 1992 American animated musical fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. Aladdin is the 31st animated ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.imdb.com/title/tt0103639/
+    Title: Aladdin (1992) - IMDb
+    Summary: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. When a street urchin vies for the love of a beautiful ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_and_the_Magic_Lamp
+    Title: Aladdin - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a Middle Eastern folk tale. It is one of the tales in The Book of One Thousand and One Nights ("The Arabian Nights"), and one of the best known, although ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://movies.disney.com/aladdin
+    Title: Aladdin | Disney Movies
+    Summary: In the heart of an enchanted city, a commoner named Aladdin and his mischievous monkey, Abu, battle to save the free-spirited Princess Jasmine.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AAladdin
+    Title: Amazon.com: Aladdin
+    Summary: Watch instantly on your PS3, Xbox, Kindle Fire, iPad, PC and other devices.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://disney.wikia.com/wiki/Aladdin
+    Title: Aladdin - DisneyWiki - Wikia
+    Summary: Aladdin is a 1992 American animated adventure film, the thirty-first animated feature in the Disney Animated Canon, and the fourth entry of the Disney Renaissance ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.aladdin-pmi.com/
+    Title: Aladdin | Home
+    Summary: Official site for Aladdin brand portable coffee mugs, customizable create your own artwork tumblers, Migo travel mugs, Aveo stainless steel bottles, and on the go ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.rottentomatoes.com/m/1042582-aladdin
+    Title: Aladdin - Rotten Tomatoes
+    Summary: Robin Williams's dizzying and hilarious voicing of the Genie is the main attraction of Aladdin, the third in the series of modern Disney animated movies that began ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/tickets
+    Title: ALADDIN the Musical Tickets | ALADDIN on Broadway Official ...
+    Summary: Buy Tickets to Broadway's new musical comedy ALADDIN at the New Amsterdam Theatre in New York City!
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 2
+QUERY aladdin new broadway
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/tickets
+    Title: Disney’s Aladdin Broadway’s New Musical
+    Summary: Buy Tickets to Broadway's new musical comedy ALADDIN at the New Amsterdam Theatre in New York City!
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://www.broadway.com/shows/aladdin-broadway/
+    Title: Aladdin - Broadway Tickets | Broadway | Broadway.com
+    Summary: Aladdin Overview - The BEST Broadway source for Aladdin tickets and Aladdin information, photos and videos. Click Here to buy Aladdin tickets today!
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://www.newyork.com/broadway-show-tickets/aladdin/
+    Title: Aladdin Tickets - Broadway Shows New York - NewYork.com
+    Summary: It’s a whole new world for Disney’s Aladdin, as the shows flies onto the Broadway stage with spectacular special effects and new songs, as well as classic tunes.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.broadway.com/shows/aladdin-broadway/buzz/
+    Title: Broadway Buzz | Aladdin - Broadway | Broadway.com
+    Summary: Aladdin on Broadway.com. The most extensive source for photos, videos, interviews and news on Broadway, off-broadway and London's West End!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.ticketmaster.com/Aladdin-tickets/artist/1858715
+    Title: Aladdin Tickets | Event Dates & Schedule | Ticketmaster.com
+    Summary: Buy Aladdin tickets from the official Ticketmaster.com site. Find Aladdin schedule, reviews and photos.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.theatermania.com/broadway/aladdin_300216/
+    Title: Aladdin - Broadway | Tickets, Reviews, Info and More
+    Summary: The top source for Aladdin news and tickets. We do not charge price markups on exclusive offers.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.broadwaybox.com/shows/aladdin/
+    Title: Aladdin Discount Tickets - Broadway | Save up to 50% Off
+    Summary: Hailed by Entertainment Weekly as “Broadway’s biggest new hit,” the beloved story of Aladdin comes to thrilling theatrical life in this bold new musical.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(2011_musical)
+    Title: Aladdin (2011 musical) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a musical based on the 1992 Disney animated film of the same name with music by Alan Menken and lyrics by Howard Ashman, Tim Rice and Chad Beguelin.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.nyc.com/broadway_tickets/aladdin.1206808/editorial_review.aspx
+    Title: Aladdin Broadway Tickets : New Amsterdam Theatre ...
+    Summary: NYC.com offers great prices and tickets for Aladdin at the New Amsterdam Theatre Broadway New York. Complete show information, maps, directions and reviews. Save more ...
+]
+
+PRECISION 1.0
+
+=====================================
+ROUND 1
+QUERY aladdin
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)
+    Title: Aladdin (1992 Disney film) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a 1992 American animated musical fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. Aladdin is the 31st animated ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.imdb.com/title/tt0103639/
+    Title: Aladdin (1992) - IMDb
+    Summary: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. When a street urchin vies for the love of a beautiful ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_and_the_Magic_Lamp
+    Title: Aladdin - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a Middle Eastern folk tale. It is one of the tales in The Book of One Thousand and One Nights ("The Arabian Nights"), and one of the best known, although ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://movies.disney.com/aladdin
+    Title: Aladdin | Disney Movies
+    Summary: In the heart of an enchanted city, a commoner named Aladdin and his mischievous monkey, Abu, battle to save the free-spirited Princess Jasmine.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://disney.wikia.com/wiki/Aladdin
+    Title: Aladdin - DisneyWiki - Wikia
+    Summary: Aladdin is a 1992 American animated adventure film, the thirty-first animated feature in the Disney Animated Canon, and the fourth entry of the Disney Renaissance ...
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AAladdin
+    Title: Amazon.com: Aladdin
+    Summary: Watch instantly on your PS3, Xbox, Kindle Fire, iPad, PC and other devices.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.aladdin-pmi.com/
+    Title: Aladdin | Home
+    Summary: Official site for Aladdin brand portable coffee mugs, customizable create your own artwork tumblers, Migo travel mugs, Aveo stainless steel bottles, and on the go ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.rottentomatoes.com/m/1042582-aladdin
+    Title: Aladdin - Rotten Tomatoes
+    Summary: Robin Williams's dizzying and hilarious voicing of the Genie is the main attraction of Aladdin, the third in the series of modern Disney animated movies that began ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/tickets
+    Title: ALADDIN the Musical Tickets | ALADDIN on Broadway Official ...
+    Summary: Buy Tickets to Broadway's new musical comedy ALADDIN at the New Amsterdam Theatre in New York City!
+]
+
+PRECISION 0.6
+
+=====================================
+ROUND 2
+QUERY aladdin new musical
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/tickets
+    Title: Disney’s Aladdin Broadway’s New Musical
+    Summary: Buy Tickets to Broadway's new musical comedy ALADDIN at the New Amsterdam Theatre in New York City!
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://blogs.disney.com/insider/articles/2014/02/19/a-conversation-with-chad-beguelin/
+    Title: Aladdin, A Whole New Musical | Articles - Official Disney ...
+    Summary: We recently sat down with Chad Beguelin, the book writer of Aladdin, the upcoming Broadway musical. As book writer, Beguelin was tasked with adapting the s
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://www.broadway.com/shows/aladdin-broadway/
+    Title: Aladdin - Broadway Tickets | Broadway | Broadway.com
+    Summary: Aladdin Overview - The BEST Broadway source for Aladdin tickets and Aladdin information, photos and videos. Click Here to buy Aladdin tickets today!
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.stubhub.com/aladdin-the-musical-new-york-tickets/
+    Title: Aladdin The Musical New York Tickets - StubHub!
+    Summary: Aladdin The Musical New York tickets are on sale now at StubHub. Sold out? Not for you. Buy and sell your Aladdin The Musical New York tickets today.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://aladdinmusical.blogspot.com/
+    Title: Aladdin Musical
+    Summary: This blog is dedicated to Disney's Aladdin: Broadway's New Musical Comdey. Following a successful Pilot Production at Seattle's 5th Avenue Theatre in 2011, and ...
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://disney.wikia.com/wiki/Aladdin_(musical)
+    Title: Aladdin ( musical ) - DisneyWiki
+    Summary: Aladdin is a stage musical based on the 1992 film of the same name. It made its world premiere at Seattle's 5th Avenue Theatre from July 7-July 31, 2011.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.tripadvisor.com/Attraction_Review-g60763-d6219219-Reviews-Aladdin_The_Musical-New_York_City_New_York.html
+    Title: Aladdin - The Musical - New York City - Reviews of Aladdin ...
+    Summary: Aladdin - The Musical, New York City: See 934 reviews, articles, and 42 photos of Aladdin - The Musical, ranked No.63 on TripAdvisor among 1,016 ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.stubhub.com/aladdin-the-musical-tickets/
+    Title: Aladdin The Musical tickets - Aladdin The Musical tickets ...
+    Summary: Aladdin The Musical tickets - Buy and sell Aladdin The Musical tickets and all other tickets on StubHub! Buy your Aladdin The Musical ticket today.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Disney%27s_Aladdin:_A_Musical_Spectacular
+    Title: Disney's Aladdin: A Musical Spectacular - Wikipedia, the ...
+    Summary: Disney's Aladdin: A Musical Spectacular is a musical show with music by Alan Menken and lyrics by Howard Ashman and Tim Rice, that plays at Disney California Adventure.
+]
+
+PRECISION 0.6
+
+=====================================
+ROUND 1
+QUERY aladdin
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)
+    Title: Aladdin (1992 Disney film) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a 1992 American animated musical fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. Aladdin is the 31st animated ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.imdb.com/title/tt0103639/
+    Title: Aladdin (1992) - IMDb
+    Summary: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. When a street urchin vies for the love of a beautiful ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_and_the_Magic_Lamp
+    Title: Aladdin - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a Middle Eastern folk tale. It is one of the tales in The Book of One Thousand and One Nights ("The Arabian Nights"), and one of the best known, although ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://movies.disney.com/aladdin
+    Title: Aladdin | Disney Movies
+    Summary: In the heart of an enchanted city, a commoner named Aladdin and his mischievous monkey, Abu, battle to save the free-spirited Princess Jasmine.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AAladdin
+    Title: Amazon.com: Aladdin
+    Summary: Watch instantly on your PS3, Xbox, Kindle Fire, iPad, PC and other devices.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.aladdin-theater.com/
+    Title: Aladdin Theater
+    Summary: Aladdin Theater More Info. Hapa Friday, February 27th, 2015 Aladdin Theater More Info. 3017 SE Milwaukie ave Portland, Oregon 97202 phone: 503.234.9694 Hungry?
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://disney.wikia.com/wiki/Aladdin
+    Title: Aladdin - DisneyWiki - Wikia
+    Summary: Aladdin is a 1992 American animated adventure film, the thirty-first animated feature in the Disney Animated Canon, and the fourth entry of the Disney Renaissance ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.aladdin-pmi.com/
+    Title: Aladdin | Home
+    Summary: Official site for Aladdin brand portable coffee mugs, customizable create your own artwork tumblers, Migo travel mugs, Aveo stainless steel bottles, and on the go ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.rottentomatoes.com/m/1042582-aladdin
+    Title: Aladdin - Rotten Tomatoes
+    Summary: Robin Williams's dizzying and hilarious voicing of the Genie is the main attraction of Aladdin, the third in the series of modern Disney animated movies that began ...
+]
+
+PRECISION 0.3
+
+=====================================
+ROUND 1
+QUERY aladdin
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)
+    Title: Aladdin (1992 Disney film) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a 1992 American animated musical fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. Aladdin is the 31st animated ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.imdb.com/title/tt0103639/
+    Title: Aladdin (1992) - IMDb
+    Summary: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. When a street urchin vies for the love of a beautiful ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_and_the_Magic_Lamp
+    Title: Aladdin - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a Middle Eastern folk tale. It is one of the tales in The Book of One Thousand and One Nights ("The Arabian Nights"), and one of the best known, although ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://movies.disney.com/aladdin
+    Title: Aladdin | Disney Movies
+    Summary: In the heart of an enchanted city, a commoner named Aladdin and his mischievous monkey, Abu, battle to save the free-spirited Princess Jasmine.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AAladdin
+    Title: Amazon.com: Aladdin
+    Summary: Watch instantly on your PS3, Xbox, Kindle Fire, iPad, PC and other devices.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.aladdin-theater.com/
+    Title: Aladdin Theater
+    Summary: Aladdin Theater More Info. Hapa Friday, February 27th, 2015 Aladdin Theater More Info. 3017 SE Milwaukie ave Portland, Oregon 97202 phone: 503.234.9694 Hungry?
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://disney.wikia.com/wiki/Aladdin
+    Title: Aladdin - DisneyWiki - Wikia
+    Summary: Aladdin is a 1992 American animated adventure film, the thirty-first animated feature in the Disney Animated Canon, and the fourth entry of the Disney Renaissance ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.aladdin-pmi.com/
+    Title: Aladdin | Home
+    Summary: Official site for Aladdin brand portable coffee mugs, customizable create your own artwork tumblers, Migo travel mugs, Aveo stainless steel bottles, and on the go ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.rottentomatoes.com/m/1042582-aladdin
+    Title: Aladdin - Rotten Tomatoes
+    Summary: Robin Williams's dizzying and hilarious voicing of the Genie is the main attraction of Aladdin, the third in the series of modern Disney animated movies that began ...
+]
+
+PRECISION 0.6
+
+=====================================
+ROUND 1
+QUERY aladdin
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)
+    Title: Aladdin (1992 Disney film) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a 1992 American animated musical fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. Aladdin is the 31st animated ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.imdb.com/title/tt0103639/
+    Title: Aladdin (1992) - IMDb
+    Summary: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. When a street urchin vies for the love of a beautiful ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_and_the_Magic_Lamp
+    Title: Aladdin - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a Middle Eastern folk tale. It is one of the tales in The Book of One Thousand and One Nights ("The Arabian Nights"), and one of the best known, although ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://movies.disney.com/aladdin
+    Title: Aladdin | Disney Movies
+    Summary: In the heart of an enchanted city, a commoner named Aladdin and his mischievous monkey, Abu, battle to save the free-spirited Princess Jasmine.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AAladdin
+    Title: Amazon.com: Aladdin
+    Summary: Watch instantly on your PS3, Xbox, Kindle Fire, iPad, PC and other devices.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.aladdin-theater.com/
+    Title: Aladdin Theater
+    Summary: Aladdin Theater More Info. Hapa Friday, February 27th, 2015 Aladdin Theater More Info. 3017 SE Milwaukie ave Portland, Oregon 97202 phone: 503.234.9694 Hungry?
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://disney.wikia.com/wiki/Aladdin
+    Title: Aladdin - DisneyWiki - Wikia
+    Summary: Aladdin is a 1992 American animated adventure film, the thirty-first animated feature in the Disney Animated Canon, and the fourth entry of the Disney Renaissance ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.aladdin-pmi.com/
+    Title: Aladdin | Home
+    Summary: Official site for Aladdin brand portable coffee mugs, customizable create your own artwork tumblers, Migo travel mugs, Aveo stainless steel bottles, and on the go ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.rottentomatoes.com/m/1042582-aladdin
+    Title: Aladdin - Rotten Tomatoes
+    Summary: Robin Williams's dizzying and hilarious voicing of the Genie is the main attraction of Aladdin, the third in the series of modern Disney animated movies that began ...
+]
+
+PRECISION 0.5
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY aladdin
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)
+    Title: Aladdin (1992 Disney film) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a 1992 American animated musical fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. Aladdin is the 31st animated ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_and_the_Magic_Lamp
+    Title: Aladdin - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a Middle Eastern folk tale. It is one of the tales in The Book of One Thousand and One Nights ("The Arabian Nights"), and one of the best known, although ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://www.imdb.com/title/tt0103639/
+    Title: Aladdin (1992) - IMDb
+    Summary: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. When a street urchin vies for the love of a beautiful ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://movies.disney.com/aladdin
+    Title: Aladdin | Disney Movies
+    Summary: In the heart of an enchanted city, a commoner named Aladdin and his mischievous monkey, Abu, battle to save the free-spirited Princess Jasmine.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AAladdin
+    Title: Amazon.com: Aladdin
+    Summary: Watch instantly on your PS3, Xbox, Kindle Fire, iPad, PC and other devices.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.aladdin-theater.com/
+    Title: Aladdin Theater
+    Summary: Aladdin Theater More Info. Hapa Friday, February 27th, 2015 Aladdin Theater More Info. 3017 SE Milwaukie ave Portland, Oregon 97202 phone: 503.234.9694 Hungry?
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.aladdin-pmi.com/
+    Title: Aladdin | Home
+    Summary: Official site for Aladdin brand portable coffee mugs, customizable create your own artwork tumblers, Migo travel mugs, Aveo stainless steel bottles, and on the go ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://disney.wikia.com/wiki/Aladdin
+    Title: Aladdin - DisneyWiki - Wikia
+    Summary: Aladdin is a 1992 American animated adventure film, the thirty-first animated feature in the Disney Animated Canon, and the fourth entry of the Disney Renaissance ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.rottentomatoes.com/m/1042582-aladdin
+    Title: Aladdin - Rotten Tomatoes
+    Summary: Robin Williams's dizzying and hilarious voicing of the Genie is the main attraction of Aladdin, the third in the series of modern Disney animated movies that began ...
+]
+
+PRECISION 0.1
+
+=====================================
+ROUND 1
+QUERY aladdin
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(1992_Disney_film)
+    Title: Aladdin (1992 Disney film) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a 1992 American animated musical fantasy film produced by Walt Disney Feature Animation and released by Walt Disney Pictures. Aladdin is the 31st animated ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.imdb.com/title/tt0103639/
+    Title: Aladdin (1992) - IMDb
+    Summary: Directed by Ron Clements, John Musker. With Scott Weinger, Robin Williams, Linda Larkin, Jonathan Freeman. When a street urchin vies for the love of a beautiful ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_and_the_Magic_Lamp
+    Title: Aladdin - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a Middle Eastern folk tale. It is one of the tales in The Book of One Thousand and One Nights ("The Arabian Nights"), and one of the best known, although ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://movies.disney.com/aladdin
+    Title: Aladdin | Disney Movies
+    Summary: In the heart of an enchanted city, a commoner named Aladdin and his mischievous monkey, Abu, battle to save the free-spirited Princess Jasmine.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.amazon.com/s?ie=UTF8&page=1&rh=i%3Aaps%2Ck%3AAladdin
+    Title: Amazon.com: Aladdin
+    Summary: Watch instantly on your PS3, Xbox, Kindle Fire, iPad, PC and other devices.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://disney.wikia.com/wiki/Aladdin
+    Title: Aladdin - DisneyWiki - Wikia
+    Summary: Aladdin is a 1992 American animated adventure film, the thirty-first animated feature in the Disney Animated Canon, and the fourth entry of the Disney Renaissance ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.aladdin-theater.com/
+    Title: Aladdin Theater
+    Summary: Aladdin Theater More Info. Hapa Friday, February 27th, 2015 Aladdin Theater More Info. 3017 SE Milwaukie ave Portland, Oregon 97202 phone: 503.234.9694 Hungry?
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.aladdin-pmi.com/
+    Title: Aladdin | Home
+    Summary: Official site for Aladdin brand portable coffee mugs, customizable create your own artwork tumblers, Migo travel mugs, Aveo stainless steel bottles, and on the go ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.rottentomatoes.com/m/1042582-aladdin
+    Title: Aladdin - Rotten Tomatoes
+    Summary: Robin Williams's dizzying and hilarious voicing of the Genie is the main attraction of Aladdin, the third in the series of modern Disney animated movies that began ...
+]
+
+PRECISION 0.1
+
+=====================================
+ROUND 2
+QUERY aladdin new broadway
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/
+    Title: Disney ALADDIN on Broadway | Broadway's New Musical Comedy
+    Summary: Disney's official site for tickets and information to the new Broadway musical ALADDIN in New York City!
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.aladdinthemusical.com/tickets
+    Title: Disney’s Aladdin Broadway’s New Musical
+    Summary: Buy Tickets to Broadway's new musical comedy ALADDIN at the New Amsterdam Theatre in New York City!
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://www.broadway.com/shows/aladdin-broadway/
+    Title: Aladdin - Broadway Tickets | Broadway | Broadway.com
+    Summary: Aladdin Overview - The BEST Broadway source for Aladdin tickets and Aladdin information, photos and videos. Click Here to buy Aladdin tickets today!
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://www.newyork.com/broadway-show-tickets/aladdin/
+    Title: Aladdin Tickets - Broadway Shows New York - NewYork.com
+    Summary: It’s a whole new world for Disney’s Aladdin, as the shows flies onto the Broadway stage with spectacular special effects and new songs, as well as classic tunes.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.broadway.com/shows/aladdin-broadway/buzz/
+    Title: Broadway Buzz | Aladdin - Broadway | Broadway.com
+    Summary: Aladdin on Broadway.com. The most extensive source for photos, videos, interviews and news on Broadway, off-broadway and London's West End!
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.ticketmaster.com/Aladdin-tickets/artist/1858715
+    Title: Aladdin Tickets | Event Dates & Schedule | Ticketmaster.com
+    Summary: Buy Aladdin tickets from the official Ticketmaster.com site. Find Aladdin schedule, reviews and photos.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.theatermania.com/broadway/aladdin_300216/
+    Title: Aladdin - Broadway | Tickets, Reviews, Info and More
+    Summary: The top source for Aladdin news and tickets. We do not charge price markups on exclusive offers.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.broadwaybox.com/shows/aladdin/
+    Title: Aladdin Discount Tickets - Broadway | Save up to 50% Off
+    Summary: Hailed by Entertainment Weekly as “Broadway’s biggest new hit,” the beloved story of Aladdin comes to thrilling theatrical life in this bold new musical.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Aladdin_(2011_musical)
+    Title: Aladdin (2011 musical) - Wikipedia, the free encyclopedia
+    Summary: Aladdin is a musical based on the 1992 Disney animated film of the same name with music by Alan Menken and lyrics by Howard Ashman, Tim Rice and Chad Beguelin.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.nyc.com/broadway_tickets/aladdin.1206808/editorial_review.aspx
+    Title: Aladdin Broadway Tickets : New Amsterdam Theatre ...
+    Summary: NYC.com offers great prices and tickets for Aladdin at the New Amsterdam Theatre Broadway New York. Complete show information, maps, directions and reviews. Save more ...
+]
+
+PRECISION 0.8
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 2
+QUERY columbia new college
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: News; Give to Columbia College; Services for Alumni; Contact Us; Fishing for Science in Fiji “I left with a better sense of the entanglement between the ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/New_College,_Teachers_College,_Columbia_University
+    Title: New College, Teachers College, Columbia University ...
+    Summary: New College for the Education of Teachers (or simply New College) was a progressive undergraduate college under the auspices of Teachers College, Columbia University ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia_University
+    Title: Columbia University - Wikipedia, the free encyclopedia
+    Summary: Columbia University in the City of New York, or simply Columbia University, is an American private Ivy League research university located in the ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.ccis.edu/
+    Title: Columbia College: On Campus & Online - Associate, Bachelor ...
+    Summary: Columbia College Columbia College, providing adult education, distance learning, online degrees and education at more than 30 campuses across the country. Get an ...
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://colleges.usnews.rankingsandreviews.com/best-colleges/columbia-university-2707
+    Title: Columbia University | Best College | US News
+    Summary: Is Columbia University the best college for you? Find out at US News. See if Columbia University is ranked and get info on admission, tuition, student life, and more.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.columbiacollege.ca/about/new-campus
+    Title: Columbia College | New Campus
+    Summary: Columbia College opened the doors to its new campus at 438 Terminal Avenue, Vancouver, British Columbia.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.columbiasc.edu/
+    Title: Columbia College South Carolina
+    Summary: A private liberal arts college for women founded in 1854, with a co-educational graduate school and evening college.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.edu/content/admissions.html
+    Title: Admissions | Columbia University in the City of New York
+    Summary: Built in 1904 and designated a New York City ... The College Dean's office and the Undergraduate Admissions Office for Columbia College and the Fu Foundation School ...
+]
+
+PRECISION 0.3
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.columbia.com/mens/
+    Title: Men's Outwear - Hiking Clothing & Accessories | Columbia ...
+    Summary: Shop online through the official Columbia Sportswear® website. Find men's jackets, shoes, mens boots, pants, fleece sweaters and shirts. Columbia Sportswear
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY apple
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.apple.com/
+    Title: Apple
+    Summary: Apple designs and creates the iPhone, iPad, Mac notebooks and desktop computers, iOS 8, OS X, iPod and iTunes, and the new Apple Watch.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Apple
+    Title: Apple - Wikipedia, the free encyclopedia
+    Summary: The apple tree (Malus domestica) is a deciduous tree in the rose family best known for its sweet, pomaceous fruit, the apple. It is cultivated worldwide as a fruit ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://topics.nytimes.com/top/news/business/companies/apple_computer_inc/index.html
+    Title: Apple Incorporated (AAPL) News - Company Information - The ...
+    Summary: Apple Incorporated financial and business news, updates, and information from The New York Times and other leading providers.
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://finance.yahoo.com/q?s=AAPL
+    Title: AAPL: Summary for Apple Inc.- Yahoo! Finance
+    Summary: View the basic AAPL stock chart on Yahoo! Finance. Change the date range, chart type and compare Apple Inc. against other companies.
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Apple_inc
+    Title: Apple Inc. - Wikipedia, the free encyclopedia
+    Summary: Apple Inc. is an American multinational corporation headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software ...
+]
+
+Result 6
+Relevant: NO
+[
+    URL: https://twitter.com/Apple
+    Title: @apple (@Apple) | Twitter - Welcome to Twitter - Login or ...
+    Summary: @ Apple. Followers 32K More . Follow Following Unfollow Blocked Unblock Pending Cancel. @apple @ Apple. Joined September 2011. 0 Photos and videos ...
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://store.apple.com/us
+    Title: Official Apple Store US — iPhone, iPad and more
+    Summary: Buy iPhone, iPad, iPod and Mac from the Apple Store. Browse accessories, connect with an Apple Specialist and get free shipping on all orders.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.apple.com/live/
+    Title: Apple - Live - Countdown to the Apple Special Event
+    Summary: Live video from our special event will be right here. And so will a whole lot more. Join us at Apple.com on September 9 at 10 a.m. PDT to follow every moment.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.apple.com/iphone/
+    Title: Apple - iPhone
+    Summary: Discover everything iPhone, including the most advanced mobile OS in its most advanced form and great apps that let you be creative and productive.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://developer.apple.com/
+    Title: Apple Developer
+    Summary: Start creating innovative new experiences for Apple Watch that reimagine, extend, and enhance the functionality of your iPhone apps. Learn about all the new ...
+]
+
+PRECISION 0.3
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia_(name)
+    Title: Columbia (name) - Wikipedia, the free encyclopedia
+    Summary: "Columbia" (kə- LUM -bee-ə) is a historical and poetic name used for the United States of America and also as one of the names of its female personification. It has ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: The University has taken many steps in recent months to help prevent sexual assault and other gender-based misconduct on campus, to make it easier for survivors to ...
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.gocolumbialions.com/
+    Title: GoColumbiaLions.com—Official Web Site of Columbia ...
+    Summary: The Official Online Home of the Columbia Lions, Columbia Athletics, Columbia University, Columbia Lions Official Merchandise, Columbia Lions broadcasting
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+PRECISION 0.2
+
+=====================================
+ROUND 1
+QUERY jaguar
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.jaguarusa.com/index.html
+    Title: Jaguar: Luxury Cars & Sports Cars | Jaguar USA
+    Summary: The official home of Jaguar USA. Our luxury cars feature innovative designs along with legendary performance to deliver one of the top sports cars in the industry.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.jaguar.com/index.html
+    Title: Jaguar - How Alive Are You?
+    Summary: Jaguar has always believed that a car is the closest thing you can create to something that is alive. Discover our luxury models: XF, XJ, XK , XE, F-TYPE.
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Jaguar_%28animal%29
+    Title: Jaguar - Wikipedia, the free encyclopedia
+    Summary: The jaguar, a compact and well-muscled animal, is the largest cat in the New World and the largest carnivorous mammal in Central and South America. Size and weight ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://www.cars.com/jaguar/
+    Title: Jaguar - Models, MPG, Prices, Comparisons, Reviews | Cars.com
+    Summary: Compare Jaguar models: research features and specs, view photos and video, read expert and consumer reviews, find local dealers and listings, get a quote and ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://www.jaguar.com/market-selector.html
+    Title: Market Selector - Jaguar
+    Summary: You are about to leave Jaguar.com. Please note that Jaguar cannot be responsible for any content or validity outside of this domain. Please click on Accept to go ...
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://animals.nationalgeographic.com/animals/mammals/jaguar/
+    Title: Jaguars, Jaguar Pictures, Jaguar Facts - National Geographic
+    Summary: Learn all you wanted to know about jaguars with pictures, videos, photos, facts, and news from National Geographic.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.edmunds.com/jaguar/
+    Title: Jaguar Reviews - Jaguar Cars | Edmunds.com
+    Summary: Jaguar cars: research Jaguar cars, read Jaguar reviews, find Jaguar car listings and get Jaguar pricing & dealer quotes.
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.motortrend.com/new_cars/01/jaguar/
+    Title: New Jaguar Cars - Find 2015 2016 Jaguar Car Prices ...
+    Summary: Find new Jaguar cars and 2015 2016 Jaguar cars at Motor Trend. Research a new Jaguar car, find Jaguar prices, read reviews, or buy a new Jaguar online today.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.ebay.com/sch/i.html?_nkw=jaguar
+    Title: jaguar | eBay - Electronics, Cars, Fashion, Collectibles ...
+    Summary: Find great deals on eBay for jaguar jaguar xk. Shop with confidence.
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Jaguar_Cars
+    Title: Jaguar Cars - Wikipedia, the free encyclopedia
+    Summary: Jaguar Cars is a brand of Jaguar Land Rover, a British multinational car manufacturer headquartered in Whitley, Coventry, England, owned by the Indian company Tata ...
+]
+
+PRECISION 0.5
+
+=====================================
+ROUND 1
+QUERY columbia
+
+
+Result 1
+Relevant: NO
+[
+    URL: http://www.columbia.com/
+    Title: Shop Direct for Jackets, Pants, Shirts & Shoes | Columbia ...
+    Summary: Shop direct from Columbia Sportswear. Buy Columbia jackets, pants, shirts, fleece, shoes, boots & sweaters. Visit our blog, watch videos & meet our athletes.
+]
+
+Result 2
+Relevant: NO
+[
+    URL: http://www.columbia.edu/
+    Title: Columbia University in the City of New York
+    Summary: Founded in 1754 as King's College by royal charter, it is the oldest institution of higher learning in the State of New York. Located in New York City and a member of ...
+]
+
+Result 3
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Columbia
+    Title: Columbia - Wikipedia, the free encyclopedia
+    Summary: Columbia may refer to: Contents 1 Places 1.1 In North America 1.2 Elsewhere 1.3 In fiction 2 Companies 2.1 Music and entertainment 2.2 Other 3 Music 4 People 5 ...
+]
+
+Result 4
+Relevant: NO
+[
+    URL: http://en.wikipedia.org/wiki/Colombia
+    Title: Colombia - Wikipedia, the free encyclopedia
+    Summary: Colombia, officially the Republic of Colombia, is a country situated in the northwest of South America, bordered to the northwest by Panama ; to the east by Venezuela ...
+]
+
+Result 5
+Relevant: NO
+[
+    URL: http://columbiasc.net/
+    Title: :: Welcome to the City of Columbia ::
+    Summary: The Columbia City Hall, also known as Old United States Court House and Post Office, was built in 1870.It was listed on the National Register of Historic Places in 1973.
+]
+
+Result 6
+Relevant: NO
+[
+    URL: http://www.gocolumbiamo.com/
+    Title: City of Columbia, Missouri's Official Government Web Site
+    Summary: The City of Columbia Missouri's official web site. Perform business transactions, view services, department information, upcoming meetings and events.
+]
+
+Result 7
+Relevant: NO
+[
+    URL: http://www.college.columbia.edu/
+    Title: Columbia College | Columbia College
+    Summary: Columbia College is pleased to share the Columbia College Annual Report 2013–2014, which celebrates our students’ and faculty members’ achievements, thanks our ...
+]
+
+Result 8
+Relevant: NO
+[
+    URL: http://www.parks.ca.gov/?page_id=552
+    Title: Columbia SHP - California State Parks
+    Summary: Location - Directions. Columbia State Historic Park is three miles north of Sonora, off Highway 49. The parks address is 11255 Jackson Street Columbia CA, 95310.
+]
+
+Result 9
+Relevant: NO
+[
+    URL: http://www.columbiacvb.com/
+    Title: Columbia SC Official Website | Events, Restaurants, Hotels ...
+    Summary: Find official travel information about Columbia, SC, including hotels, restaurants, events, and more from the online travel resource of Columbia, South Carolina, the ...
+]
+
+Result 10
+Relevant: NO
+[
+    URL: http://www.colum.edu/
+    Title: Columbia College Chicago
+    Summary: When you attend Columbia College Chicago, your home is one of the most active, vibrant, forward-thinking cities in the world.
+]
+
+PRECISION 0.2
+
